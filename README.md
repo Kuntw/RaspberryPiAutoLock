@@ -1,2 +1,14 @@
-# RaspberryPiAutoLock
+# 老公寓救星:遠端開鎖 RaspberryPiAutoLock
 樹莓派連動電鎖教學
+
+## 事前準備物品
+
+| 物品           | 品牌           | 型號  |
+| ------------- |:---------------------------:| ---------:|
+| 樹莓派(Raspberry Pi) | 樹莓派基金會           | 4 Model B|
+| 門口機/室內機         | 機智(明谷)            | MG-101AB|
+| 電鎖(便當鎖)          | Bird 鳥牌            | LG001   |
+| 1路5V繼電器模組       | 莆洋國際電子有限公司  |   1208   |
+
+### [1路5V繼電器模組說明書](http://www.pu-yang.com.tw/download.html)
+### [樹莓派針腳說明書](https://pinout.xyz/)
