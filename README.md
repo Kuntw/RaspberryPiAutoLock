@@ -28,6 +28,13 @@
 
 ## 改造電路
 
+將門口機紅圈處電路新增接點已達到跳過門鈴按鈕功能
+![alt 文字](https://github.com/Kuntw/RaspberryPiAutoLock/blob/main/pic/%E5%AE%A4%E5%85%A7%E6%A9%9F%E6%94%B9%E6%A9%9F%E5%9C%96_%E7%89%B9%E5%BE%B5%E5%9C%96.png "室內機改機圖")
+
 ## 綜合測試
 
 ## Reference Link
+
+[電鎖？！門鈴？！對講機狀況OUT！！｜明谷對講機故障狀況排除超詳細解說｜公寓門鈴不會響｜電鎖打不開｜成為弱電師傅的第一步【弱電通】](https://www.youtube.com/watch?v=n-X9EhQSdIs&t=803s)
+[大門電鎖故障自己舊換新免煩惱！便當鎖安裝完整教學｜鳥牌Bird正反電鎖注意事項｜公寓大門門鎖、輔助鎖安裝更換｜可不可以鎖進去一點點就好?【弱電通】](https://www.youtube.com/watch?v=y_kV7PxyuJ4&t=1s)
+[樹莓派控制一樓電控鎖大門 從此不用帶鑰匙](https://www.youtube.com/shorts/VHymbJ414KI)
